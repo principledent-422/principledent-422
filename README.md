@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Learning a little day-by-day <br><br>
-
+<br>
+Learning a little day-by-day <br>
+<br>
 <img align="centre" src="https://github.com/principledent-422/principledent-422/assets/172315030/7b70b855-44c7-4aaa-8ba1-d3e56f7a3b68" height="480" width="1020">
 
 
