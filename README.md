@@ -1,4 +1,4 @@
-<img align="centre" src="https://github.com/principledent-422/principledent-422/assets/172315030/7b70b855-44c7-4aaa-8ba1-d3e56f7a3b68" height="480" width="1020">
+<img align="centre" src="https://github.com/principledent-422/principledent-422/assets/172315030/7b70b855-44c7-4aaa-8ba1-d3e56f7a3b68"  width="1020">
 
 <p align="centre">
 
@@ -15,7 +15,7 @@
 Learning a little daily... <br>
 <br>
 
-<h2>Things I've built <img src="https://github.com/principledent-422/principledent-422/assets/172315030/07fedf93-f30f-46a5-a3b9-ec9321d4ca5e" height="36"</img></h2>
+<h2>Things I've built <img src="https://github.com/principledent-422/principledent-422/assets/172315030/69fa96ff-1600-443f-a7f1-af412245aba8" height="36"</img></h2>
  
 
 ![](https://komarev.com/ghpvc/?username=principledent-422)
